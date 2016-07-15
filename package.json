@@ -1,0 +1,25 @@
+{
+  "name": "graph-collection",
+  "version": "1.0.0",
+  "description": "Graphs Collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagendramca2011/graph.git"
+  },
+  "keywords": [
+    "graphs"
+  ],
+  "author": "Nagendra Prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagendramca2011/graph/issues"
+  },
+  "homepage": "https://github.com/nagendramca2011/graph#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

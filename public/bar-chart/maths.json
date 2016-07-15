@@ -1,0 +1,102 @@
+﻿[
+{
+	"Student": "A",
+	"Marks": 98	
+},
+{
+	"Student" : "B",
+	"Marks": 45
+},
+{
+	"Student" : "C",
+	"Marks": 47
+},
+{
+	"Student" : "D",
+	"Marks": 34
+},
+{
+	"Student" : "E",
+	"Marks" : 54
+},
+{
+	"Student" : "F",
+	"Marks" : 21
+},
+{
+	"Student" : "G",
+	"Marks" : 57
+},
+{
+	"Student" : "H",
+	"Marks" : 31
+},
+{
+	"Student" : "I",
+	"Marks" : 17
+},
+{
+	"Student" : "J",
+	"Marks" : 5
+},
+{
+	"Student" : "K",
+	"Marks" : 23
+},
+{
+	"Student" : "L",
+	"Marks" : 39
+},
+{
+	"Student" : "M",
+	"Marks" : 29
+},
+{
+	"Student" : "N",
+	"Marks" : 33
+},
+{
+	"Student" : "O",
+	"Marks" : 18
+},
+{
+	"Student" : "P",
+	"Marks" : 35
+},
+{
+	"Student" : "Q",
+	"Marks" : 11
+},
+{
+	"Student" : "R",
+	"Marks" : 45
+},
+{
+	"Student" : "S",
+	"Marks" : 43
+},
+{
+	"Student" : "T",
+	"Marks" : 28
+},
+{
+	"Student" : "U",
+	"Marks" : 26
+},
+{
+	"Student" : "V",
+	"Marks" : 30
+},
+{
+	"Student" : "X",
+	"Marks" : 5
+},
+{
+	"Student" : "Y",
+	"Marks" : 4
+},
+{
+	"Student" : "Z",
+	"Marks" : 2
+}
+]

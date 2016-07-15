@@ -1,0 +1,25 @@
+{
+  "name": "graph-collection",
+  "description": "Graphs Collection",
+  "main": "index.js",
+  "authors": [
+    "Nagendra Prasad"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "graphs"
+  ],
+  "homepage": "https://github.com/nagendramca2011/graph",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "d3": "v3.4.13",
+    "bootstrap": "^3.3.6"
+  }
+}
